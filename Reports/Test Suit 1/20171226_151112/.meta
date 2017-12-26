@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportEntity>
+   <description></description>
+   <name>20171226_151112</name>
+   <tag></tag>
+   <displayName>20171226_151112</displayName>
+   <reportTestCases>
+      <testCaseId>Test Cases/Rec-Verify the element</testCaseId>
+      <testCaseName>Rec-Verify the element</testCaseName>
+      <videoLocation>videos/test_1.avi</videoLocation>
+   </reportTestCases>
+</ReportEntity>

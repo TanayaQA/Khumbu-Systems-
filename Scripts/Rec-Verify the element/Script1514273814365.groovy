@@ -24,9 +24,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://www.seleniumframework.com/Practiceform/')
 
-WebUI.setText(findTestObject('Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/input_name'), 'Tanaya')
-
 WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/input_name'), 'Tanaya')
 
 WebUI.setText(findTestObject('Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/input_email'), 'Tanaya@gmail.com')
 

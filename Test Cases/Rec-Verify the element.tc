@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Added test case for Demo</description>
-   <name>Verify the element</name>
+   <name>Rec-Verify the element</name>
    <tag>UI element</tag>
    <comment></comment>
    <testCaseGuid>9fa925ad-489d-4667-8ded-c322682dcf37</testCaseGuid>

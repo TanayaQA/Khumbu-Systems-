@@ -4,8 +4,8 @@
    <name>Test Suit 1</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2017-12-26T12:45:24</lastRun>
-   <mailRecipient></mailRecipient>
+   <lastRun>2017-12-26T15:11:12</lastRun>
+   <mailRecipient>Tanaya.jena89@gmail.com;</mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
@@ -15,6 +15,6 @@
       <guid>5ae3cd6e-fe4a-45c3-8393-edb737e4c3b6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify the element</testCaseId>
+      <testCaseId>Test Cases/Rec-Verify the element</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
