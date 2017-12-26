@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suit 1" time="5" tests="0" failures="1" errors="0">
+   <testsuite name="Test Suit 1" tests="0" failures="1" errors="0" time="5" timestamp="2017-12-26 12:31:27" hostname="tanayakumar.jena - Khumbu15.khumbu.co.in" id="Test Suites/Test Suit 1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\tanayakumar.jena\\git\\Khumbu-Systems-\\Reports\\Test Suit 1\\20171226_123124"/>
+         <property name="logFiles" value="C:\\Users\\tanayakumar.jena\\git\\Khumbu-Systems-\\Reports\\Test Suit 1\\20171226_123124\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="tanayakumar.jena - Khumbu15.khumbu.co.in"/>
+         <property name="hostAddress" value="172.25.30.129"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.2.0.1"/>
+      </properties>
+      <testcase name="Test Cases/Verify the element" classname="Test Cases/Verify the element" status="FAILED">
+         <failure type="FAILED" message="Unable to open browser with url: '' (Root cause: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases)"/>
+         <system-out><![CDATA[2017-12-26 12:31:27 - [TEST_CASE][FAILED] - Test Cases/Verify the element: Test Cases/Verify the element FAILED because (of) Unable to open browser with url: '' (Root cause: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases)
+
+2017-12-26 12:31:29 - [TEST_STEP][FAILED] - openBrowser: Unable to open browser with url: '' (Root cause: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases)
+
+2017-12-26 12:31:32 - [MESSAGE][FAILED] - Unable to open browser with url: '' (Root cause: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases)]]></system-out>
+         <system-err><![CDATA[2017-12-26 12:31:27 - [TEST_CASE][FAILED] - Test Cases/Verify the element: Test Cases/Verify the element FAILED because (of) Unable to open browser with url: '' (Root cause: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2017-12-26 12:31:27 - [TEST_SUITE][FAILED] - Test Suit 1: Test Cases/Verify the element FAILED because (of) Unable to open browser with url: '' (Root cause: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases)]]></system-out>
+      <system-err><![CDATA[2017-12-26 12:31:27 - [TEST_SUITE][FAILED] - Test Suit 1: Test Cases/Verify the element FAILED because (of) Unable to open browser with url: '' (Root cause: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases)]]></system-err>
+   </testsuite>
+</testsuites>

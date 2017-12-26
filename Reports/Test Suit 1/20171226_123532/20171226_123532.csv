@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Test Suit 1,,,2017-12-26 12:35:36,2017-12-26 12:35:42,6.127s,FAILED
+,,,,,,
+Test Cases/Verify the element,,Added test case for Demo,2017-12-26 12:35:36,2017-12-26 12:35:42,5.284s,FAILED
+openBrowser,,,2017-12-26 12:35:38,2017-12-26 12:35:42,3.199s,FAILED

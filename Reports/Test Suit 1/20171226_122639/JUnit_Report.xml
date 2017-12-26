@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suit 1" time="28" tests="1" failures="0" errors="0">
+   <testsuite name="Test Suit 1" tests="1" failures="0" errors="0" time="28" timestamp="2017-12-26 12:26:41" hostname="tanayakumar.jena - Khumbu15.khumbu.co.in" id="Test Suites/Test Suit 1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\tanayakumar.jena\\git\\Khumbu-Systems-\\Reports\\Test Suit 1\\20171226_122639"/>
+         <property name="logFiles" value="C:\\Users\\tanayakumar.jena\\git\\Khumbu-Systems-\\Reports\\Test Suit 1\\20171226_122639\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="tanayakumar.jena - Khumbu15.khumbu.co.in"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.2.0.1"/>
+         <property name="browser" value="Chrome 63.0.3239.108"/>
+         <property name="hostAddress" value="172.25.30.129"/>
+         <property name="sessionId" value="5ad45840214f68e6a524948977a294b9"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Verify the element" classname="Test Cases/Verify the element" status="PASSED">
+         <system-out><![CDATA[2017-12-26 12:26:42 - [TEST_CASE][PASSED] - Test Cases/Verify the element: Test Cases/Verify the element
+
+2017-12-26 12:26:44 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2017-12-26 12:26:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2017-12-26 12:26:51 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://www.seleniumframework.com/Practiceform/' successfully
+
+2017-12-26 12:27:02 - [MESSAGE][PASSED] - Navigate to 'http://www.seleniumframework.com/Practiceform/' successfully
+
+2017-12-26 12:27:02 - [TEST_STEP][PASSED] - setText: Text 'Tanaya' is set on object 'Object Repository/Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/input_name'
+
+2017-12-26 12:27:03 - [MESSAGE][PASSED] - Text 'Tanaya' is set on object 'Object Repository/Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/input_name'
+
+2017-12-26 12:27:03 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2017-12-26 12:27:04 - [MESSAGE][PASSED] - Current window maximized
+
+2017-12-26 12:27:04 - [TEST_STEP][PASSED] - setText: Text 'Tanaya@gmail.com' is set on object 'Object Repository/Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/input_email'
+
+2017-12-26 12:27:05 - [MESSAGE][PASSED] - Text 'Tanaya@gmail.com' is set on object 'Object Repository/Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/input_email'
+
+2017-12-26 12:27:05 - [TEST_STEP][PASSED] - setText: Text '9861098610' is set on object 'Object Repository/Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/input_telephone'
+
+2017-12-26 12:27:06 - [MESSAGE][PASSED] - Text '9861098610' is set on object 'Object Repository/Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/input_telephone'
+
+2017-12-26 12:27:06 - [TEST_STEP][PASSED] - setText: Text 'US' is set on object 'Object Repository/Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/input_country'
+
+2017-12-26 12:27:06 - [MESSAGE][PASSED] - Text 'US' is set on object 'Object Repository/Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/input_country'
+
+2017-12-26 12:27:06 - [TEST_STEP][PASSED] - setText: Text 'KHUMBU' is set on object 'Object Repository/Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/input_company'
+
+2017-12-26 12:27:07 - [MESSAGE][PASSED] - Text 'KHUMBU' is set on object 'Object Repository/Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/input_company'
+
+2017-12-26 12:27:07 - [TEST_STEP][PASSED] - setText: Text 'Hi Welcome to khumbu automation world ' is set on object 'Object Repository/Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/textarea_message'
+
+2017-12-26 12:27:08 - [MESSAGE][PASSED] - Text 'Hi Welcome to khumbu automation world ' is set on object 'Object Repository/Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/textarea_message'
+
+2017-12-26 12:27:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/a_Submit' is clicked on
+
+2017-12-26 12:27:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/a_Submit' is clicked on
+
+2017-12-26 12:27:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/button_Alert Box' is clicked on
+
+2017-12-26 12:27:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Selenium Framework  Practicefo/Page_Selenium Framework  Practicefo/button_Alert Box' is clicked on
+
+2017-12-26 12:27:09 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2017-12-26 12:27:10 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2017-12-26 12:26:41 - [TEST_SUITE][PASSED] - Test Suit 1: Test Cases/Verify the element]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
